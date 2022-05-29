@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='StopSpinningMyWord'/>
+        <page name='DescendingOrder'/>
+        <page name='RepeatStr'/>
+        <page name='FindIt'/>
+        <page name='findSum'/>
+        <page name='SumOfTwoSmallest'/>
+        <page name='FindShort'/>
+        <page name='SquareDigits'/>
+        <page name='Summation'/>
+        <page name='Digitize'/>
+    </pages>
+</playground>
